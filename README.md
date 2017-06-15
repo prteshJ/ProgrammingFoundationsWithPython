@@ -1,19 +1,27 @@
 # ProgrammingFoundationsWithPython
 Moving forward on my Python journey via various projects.
 
-SMS_Using_Twilio: Sends an SMS using Twiliio.
+Draw_Using_Turtle: 
+Explored Turtle module by creating various shapes.
 
-Take_A_Break: Plays your favorite song after specified time interval. Default is 2 hours.
+Movie_Website: 
+Creates a movie website that showcases my favorite movies and
+television shows and plays their trailers.
 
-Draw_Using_Turtle: Explored Turtle module by creating various shapes.
+Name_Initials: 
+Sketched my name using Turtle module.
 
-Movie_Website: Creates a movie website that showcases my favorite movies and
-               television shows and plays their trailers.
+Prank_Fixer: 
+Decodes prank and unravels hidden message.
 
-Name_Initials: Sketched my name using Turtle module.
+Profanity_Editor: 
+Helps avoid embarassing mistakes by detecting curse words.
 
-Prank_Fixer: Decodes prank and unravels hidden message.
+SMS_Using_Twilio: 
+Sends an SMS using Twiliio.
 
-Profanity_Editor: Helps avoid embarassing mistakes by detecting curse words.
+Secret_Message: 
+Decodes secret messages.
 
-Secret_Message:Decodes secret messages.
+Take_A_Break: 
+Plays your favorite song after specified time interval. Default is 2 hours.
